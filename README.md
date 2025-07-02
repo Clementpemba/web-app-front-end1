@@ -11,11 +11,11 @@ Front end for a web app school project, I used html and css
                 background-color: black;
             }
             .header {
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                padding: 1rem;
-                background-color: black;
+                display: flex;         
+                align-items: center;          
+                justify-content: space-between;                 
+                padding: 1rem;             
+                background-color: black;                                               
                 border-bottom: 1px solid rgb(0, 0, 0);
             }
             .logo {
